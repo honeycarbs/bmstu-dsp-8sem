@@ -1,4 +1,4 @@
-function main
+function lab02
 	t_max = 5;
 	t = -t_max:0.05:t_max;
 

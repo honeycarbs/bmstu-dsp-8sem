@@ -1,4 +1,4 @@
-function main
+function lab03
 	% Входные параметры
 	c = 2.0;
 	sigma = 1.0;
